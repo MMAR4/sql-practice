@@ -18,6 +18,7 @@ Topics Covered
 13. SQL Execution Order
 14. Common Mistakes
 15. Interview Notes
+
 ****************************************************************************************/
 
 
