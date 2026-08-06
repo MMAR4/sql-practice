@@ -1,4 +1,4 @@
-/* Q16
+/* DAY 15 Q16
 Problem Description:
 The kitchen manager needs to review details for all orders containing items priced strictly above the calculated average price of all available food items on the menu.
 
